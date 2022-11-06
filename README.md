@@ -81,7 +81,7 @@ docker build -t x-ui .
 
 The script has 2 built-in SSL certificate application functions. 
 - ### 1st Method (Recommended)
-To use this method to apply for a certificate, your server's IP addres being correctly pointed to a domain or subdomain that you own is the only requirement.
+To use this method to apply for a certificate, your server's IP address being correctly pointed to a domain or subdomain that you own is the only requirement.
 
 - ### 2nd Method (Use if the above one fails)
 This is not beginner frienly as much as the first one. To use this method, all of the follwoing prerequisites should be met:
